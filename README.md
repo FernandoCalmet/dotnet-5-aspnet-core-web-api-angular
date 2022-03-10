@@ -21,7 +21,7 @@ Este proyecto es una muestra de como se implementa un backend utilizando ``ASP.N
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/CS-ASPNET-Core-Web-API-Angular-SQLServer
+gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-Web-API-Angular
 ```
 
 Ejecutar aplicación de backend.
